@@ -23,5 +23,5 @@ or
  - Execute command `kubectl apply -f service.yml`
  - Execute command `minikube service list`
  - get service name from previous command and execute `minikube service  web-service --url` and get url and check application
- - 
-
+ 
+more details: https://www.youtube.com/watch?v=9H_kwRiImPQ&ab_channel=DevOpsMadeEasy
